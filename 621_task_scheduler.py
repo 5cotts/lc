@@ -2,6 +2,7 @@
 
 from collections import defaultdict
 import heapq
+from typing import List
 
 class Solution:
     def __init__(self) -> None:
